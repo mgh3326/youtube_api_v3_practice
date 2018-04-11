@@ -12,15 +12,14 @@ using System.Reflection;
 
 using DotNetOpenAuth.OAuth2;
 
-using Google.Apis;
-//using Google.Apis.Authentication;
-//using Google.Apis.Authentication.OAuth2;
-//using Google.Apis.Authentication.OAuth2.DotNetOpenAuth;
-//using Google.Apis.Samples.Helper;
-//using Google.Apis.Services;
-//using Google.Apis.Util;
-//using Google.Apis.Youtube.v3;
-//using Google.Apis.Youtube.v3.Data;
+using Google.Apis.Authentication;
+using Google.Apis.Authentication.OAuth2;
+using Google.Apis.Authentication.OAuth2.DotNetOpenAuth;
+using Google.Apis.Samples.Helper;
+using Google.Apis.Services;
+using Google.Apis.Util;
+using Google.Apis.Youtube.v3;
+using Google.Apis.Youtube.v3.Data;
 
 namespace dotnet
 {
